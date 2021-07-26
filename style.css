@@ -1,4 +1,4 @@
-body {
+body +div {
     color: white;
     background-color: black;
 }
